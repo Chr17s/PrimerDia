@@ -22,6 +22,7 @@ class MainActivity : ComponentActivity() {
                 //hola
                 //hola2
                 //22130813
+                //prueba
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Android",
