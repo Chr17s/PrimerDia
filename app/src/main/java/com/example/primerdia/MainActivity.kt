@@ -21,6 +21,7 @@ class MainActivity : ComponentActivity() {
             PrimerDiaTheme {
                 //hola
                 //hola2
+                //22130813
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Android",
